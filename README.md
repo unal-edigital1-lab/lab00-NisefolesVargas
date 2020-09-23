@@ -8,6 +8,10 @@ Primero identificamos las entradas, salidas y cables necesarios para crear nuest
 
 ![conex](https://github.com/unal-edigital1-lab/lab00-NisefolesVargas/blob/master/sum1bcc_primitive.PNG)
 
+Podemos verificar que el código corresponde con nuestro modelo mediante el RTL viewer.
+
+![conex](https://github.com/unal-edigital1-lab/lab00-NisefolesVargas/blob/master/Sumador%20primitive.PNG)
+
 2.Generamos un almacenamiento de 2 bit.
 
 ![conex](https://github.com/unal-edigital1-lab/lab00-NisefolesVargas/blob/master/sum1bcc.PNG) 
