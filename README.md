@@ -28,7 +28,14 @@ Podemos verificar que el código corresponde con nuestro modelo mediante el RTL 
 Sumador 4 bits.
 
 ![conex](https://github.com/unal-edigital1-lab/lab00-NisefolesVargas/blob/master/sum4bcc.PNG)
-![conex](https://github.com/unal-edigital1-lab/lab00-NisefolesVargas/blob/master/testbench.PNG)
+
+EL sumador de 4 bits se ve de la siguiente manera.
+
+![conex](https://github.com/unal-edigital1-lab/lab00-NisefolesVargas/blob/master/Sumador%204%20bits%20diagrama.PNG)
+
+Podemos ver la simulación RTL, y vemos que funciona adecuadamente.
+
+![conex](https://github.com/unal-edigital1-lab/lab00-NisefolesVargas/blob/master/wave%20testbench.PNG)
 
 
 
