@@ -41,7 +41,7 @@ Cuando queremos referirnos a una posición simplemente ponemos el número de est
 *Sumador 4 bits.
 Aplicando lo visto en los numerales anteriores lo incorporamos a un nuevo concepto que es instanciación.
 Una vez realizados los pasos similar a los efectuados en los numerales anteriores procedemos a la instanciación.
-La instanciación consiste en tomar una variable pasada (utilizada en otro modulo) y asignarla a una actual (utilizada en nuestro modulo) este está estructurado de la siguiente manera Sum1bcc(nombre del modulo anterior) nombre de la función actual(s0) (anteriormente usado pero con nombre nuevo)A pasado Xi (actual). Adicionalmente aplicamos el concepto de las posiciones.
+La instanciación consiste en tomar una variable pasada (utilizada en otro modulo) y asignarla a una actual (utilizada en nuestro modulo) este está estructurado de la siguiente manera Sum1bcc(nombre del modulo anterior) nombre de la función actual(s0) A(anteriormente usado pero con nombre nuevo) pasado Xi (actual). Adicionalmente aplicamos el concepto de las posiciones.
 
 ![conex](https://github.com/unal-edigital1-lab/lab00-NisefolesVargas/blob/master/sum4bcc.PNG)
 
